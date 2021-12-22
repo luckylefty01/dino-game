@@ -1,6 +1,6 @@
 import { setupGround, updateGround } from "./ground.js"
 import { setupDino, updateDino } from "./dino.js"
-import { setupCactus, setupCactus} from "./cactus.js"
+import { setupCactus, updateCactus} from "./cactus.js"
 
 const WORLD_WIDTH = 100
 const WORLD_HEIGHT = 30
